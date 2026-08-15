@@ -1,0 +1,21 @@
+{
+  "uygulama": {
+    "surum": "1.0.0",
+    "notlar": "İlk sürüm.",
+    "indirme_url": "https://github.com/Cxmurat/mymecmua-eklentiler/releases/download/v1.0.0/mymecmua.apk",
+    "zorunlu": false
+  },
+  "eklentiler": [
+    {
+      "id": "haberler-eklentisi",
+      "ad": "Haberler",
+      "surum": "1.7.0",
+      "aciklama": "193 RSS kanalı; eğlence, kültür, komik, film/dizi kategorileri; GitHub katalog v1.1.1 (ListeList, Kayıp Rıhtım eklendi).",
+      "indirme_url": "https://raw.githubusercontent.com/Cxmurat/mymecmua-eklentiler/main/paketler/haberler_v1.7.0.myex",
+      "zorunlu": false,
+      "meta": {
+        "rss_katalog_url": "https://raw.githubusercontent.com/Cxmurat/mymecmua-eklentiler/main/veriler/haberler/rss_katalog.json"
+      }
+    }
+  ]
+}
